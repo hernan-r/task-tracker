@@ -1,0 +1,25 @@
+# Compilación
+/out/
+/task-tracker.jar
+*.class
+
+# Archivos temporales
+*.tmp
+*.log
+*.swp
+*~
+
+# Datos locales del CLI
+/tasks.tsv
+/mis-tareas.tsv
+
+# Sistema
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
